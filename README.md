@@ -86,6 +86,7 @@ Based on the performance metrics, we recommend **Logistic Regression** as the be
 
     - **Data**: Ensure that the path to the training and test datasets in the `data` folder is correctly specified in the code. The data is available in the `data` folder.
     - **Notebook Configuration**: The libraries for running the model are uploaded in the `notebook_configuration` folder. Make sure all necessary libraries are installed and correctly referenced in the notebook configuration.
+    - **Code**: The whole code for running the model is uploaded in the `finalproject.ipynb` file.
 
 4. Run the code:
 
